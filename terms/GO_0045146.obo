@@ -1,0 +1,10 @@
+[Term]
+id: GO:0045146
+name: initiation of acetate catabolic process by acetate
+namespace: biological_process
+def: "The activation, by acetate, of the chemical reactions and pathways resulting in the breakdown of acetate." [PMID:11741859]
+synonym: "initiation of acetate breakdown by acetate" EXACT []
+synonym: "initiation of acetate degradation by acetate" EXACT []
+is_a: GO:0043077 ! initiation of acetate catabolic process
+relationship: part_of GO:0010034 ! response to acetate
+
