@@ -41,3 +41,8 @@ target/
 # Mac specific weirdness
 .DS_Store
 src/.DS_Store
+
+# Large files and tools
+tools/robot
+tools/robot.jar
+tools/obo-scripts/
